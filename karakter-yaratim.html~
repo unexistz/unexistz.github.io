@@ -16,30 +16,30 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org03b783a">Irklar</a>
+<li><a href="#org80e24bb">Irklar</a>
 <ul>
-<li><a href="#org4a7fe14">İnsan</a></li>
-<li><a href="#org50b5ce8">Cüce</a></li>
-<li><a href="#org2ca9c84">Elf</a></li>
-<li><a href="#org8f4b685">Buçukluk</a></li>
-<li><a href="#orge3e6bfb">Genasi</a></li>
+<li><a href="#org531cd6a">İnsan</a></li>
+<li><a href="#orge8cfc33">Cüce</a></li>
+<li><a href="#orge3da0e6">Elf</a></li>
+<li><a href="#org0f30092">Buçukluk</a></li>
+<li><a href="#org4ea4152">Genasi</a></li>
 </ul>
 </li>
-<li><a href="#org5260b35">Meslekler</a>
+<li><a href="#org138660b">Meslekler</a>
 <ul>
-<li><a href="#orgd784296">Barbarian</a></li>
-<li><a href="#orge38f0df">Bard</a></li>
-<li><a href="#org6b7b703">Cleric</a></li>
-<li><a href="#org6144651">Druid</a></li>
-<li><a href="#org332b955">Fighter</a></li>
-<li><a href="#org6810295">Paladin</a></li>
-<li><a href="#org3c562e4">Ranger</a></li>
-<li><a href="#org4250cfd">Rogue</a></li>
-<li><a href="#org792f530">Sorcerer</a></li>
-<li><a href="#org21cd479">Wizard</a></li>
+<li><a href="#orgbd1eb18">Barbarian</a></li>
+<li><a href="#orgb912e58">Bard</a></li>
+<li><a href="#org4c6f9d5">Cleric</a></li>
+<li><a href="#orgb42bf83">Druid</a></li>
+<li><a href="#orge3a4151">Fighter</a></li>
+<li><a href="#org2f0ad6c">Paladin</a></li>
+<li><a href="#org62e99e9">Ranger</a></li>
+<li><a href="#orgad2a1fd">Rogue</a></li>
+<li><a href="#org978013b">Sorcerer</a></li>
+<li><a href="#orgdd16b53">Wizard</a></li>
 </ul>
 </li>
-<li><a href="#orgde47ad5">Motivasyonlar</a></li>
+<li><a href="#orga1682e5">Motivasyonlar</a></li>
 </ul>
 </div>
 </div>
@@ -79,16 +79,16 @@ oyuncular, karakter yaratımında attıkları skor zarlarını
 kabiliyetlerine diledikleri gibi yerleştirme hakkından
 mahrum kalacaktır.)
 </p>
-<div id="outline-container-org03b783a" class="outline-2">
-<h2 id="org03b783a">Irklar</h2>
-<div class="outline-text-2" id="text-org03b783a">
+<div id="outline-container-org80e24bb" class="outline-2">
+<h2 id="org80e24bb">Irklar</h2>
+<div class="outline-text-2" id="text-org80e24bb">
 <p>
 Oyunda seçebileceğin ırklar aşağıdadır:
 </p>
 </div>
-<div id="outline-container-org4a7fe14" class="outline-3">
-<h3 id="org4a7fe14">İnsan</h3>
-<div class="outline-text-3" id="text-org4a7fe14">
+<div id="outline-container-org531cd6a" class="outline-3">
+<h3 id="org531cd6a">İnsan</h3>
+<div class="outline-text-3" id="text-org531cd6a">
 <p>
 İnsanlar, Arz'ın en baskın ırkıdır. Çeşitlilikleri,
 adaptasyonları ve hırslarıyla bilinirler. Oyundaki insan
@@ -128,9 +128,9 @@ karakterler kolonici veya yerli olabilir.
 </ul>
 </div>
 </div>
-<div id="outline-container-org50b5ce8" class="outline-3">
-<h3 id="org50b5ce8">Cüce</h3>
-<div class="outline-text-3" id="text-org50b5ce8">
+<div id="outline-container-orge8cfc33" class="outline-3">
+<h3 id="orge8cfc33">Cüce</h3>
+<div class="outline-text-3" id="text-orge8cfc33">
 <p>
 Cüceler, dağlardaki görkemli maden-kentlerinde yaşayan,
 tıknaz ve babayiğit bir halktır. Sıkı çalışmaları,
@@ -149,9 +149,9 @@ düşmanlarını ise asla unutmazlar.
 </ul>
 </div>
 </div>
-<div id="outline-container-org2ca9c84" class="outline-3">
-<h3 id="org2ca9c84">Elf</h3>
-<div class="outline-text-3" id="text-org2ca9c84">
+<div id="outline-container-orge3da0e6" class="outline-3">
+<h3 id="orge3da0e6">Elf</h3>
+<div class="outline-text-3" id="text-orge3da0e6">
 <p>
 Mağrur ve zarif elfler, kadim ve uzun ömürlü bir
 halktır. Dışa kapalı bir yaşam sürerler. Dövüş, müzik,
@@ -170,9 +170,9 @@ ormanlarından ayrılıp insan diyarlarına göç eder.
 </ul>
 </div>
 </div>
-<div id="outline-container-org8f4b685" class="outline-3">
-<h3 id="org8f4b685">Buçukluk</h3>
-<div class="outline-text-3" id="text-org8f4b685">
+<div id="outline-container-org0f30092" class="outline-3">
+<h3 id="org0f30092">Buçukluk</h3>
+<div class="outline-text-3" id="text-org0f30092">
 <p>
 Buçukluklar, küçük, dostane, ve becerikli bir
 halktır. İnsanlarla iç içe yaşarlar. Sinsilik ve
@@ -191,9 +191,9 @@ taşır, ve hayatının bir noktasında yollara düşer.
 </ul>
 </div>
 </div>
-<div id="outline-container-orge3e6bfb" class="outline-3">
-<h3 id="orge3e6bfb">Genasi</h3>
-<div class="outline-text-3" id="text-orge3e6bfb">
+<div id="outline-container-org4ea4152" class="outline-3">
+<h3 id="org4ea4152">Genasi</h3>
+<div class="outline-text-3" id="text-org4ea4152">
 <p>
 Damarlarında elemental varlıkların kanını taşıyan genasiler,
 Senua'da yaygındır. Hava, su, toprak ve ateş olmak üzere
@@ -232,16 +232,16 @@ s.19'dadır.)
 </div>
 </div>
 </div>
-<div id="outline-container-org5260b35" class="outline-2">
-<h2 id="org5260b35">Meslekler</h2>
-<div class="outline-text-2" id="text-org5260b35">
+<div id="outline-container-org138660b" class="outline-2">
+<h2 id="org138660b">Meslekler</h2>
+<div class="outline-text-2" id="text-org138660b">
 <p>
 Oyunda seçebileceğin meslekler aşağıdadır:
 </p>
 </div>
-<div id="outline-container-orgd784296" class="outline-3">
-<h3 id="orgd784296">Barbarian</h3>
-<div class="outline-text-3" id="text-orgd784296">
+<div id="outline-container-orgbd1eb18" class="outline-3">
+<h3 id="orgbd1eb18">Barbarian</h3>
+<div class="outline-text-3" id="text-orgbd1eb18">
 <p>
 Arz'ın vahşi toprakları, pek çok barbar kabilesine ev
 sahipliği yapar. Bunların gözü kara dövüşçüleri, bazen
@@ -250,9 +250,9 @@ hiddetlerini bir silah gibi kullanır.
 </p>
 </div>
 </div>
-<div id="outline-container-orge38f0df" class="outline-3">
-<h3 id="orge38f0df">Bard</h3>
-<div class="outline-text-3" id="text-orge38f0df">
+<div id="outline-container-orgb912e58" class="outline-3">
+<h3 id="orgb912e58">Bard</h3>
+<div class="outline-text-3" id="text-orgb912e58">
 <p>
 Bazı ozanlar, yolculukları esnasında kadim fey büyülerinin
 sırlarını keşfeder. Bu karizmatik maceracılar; güzel söz,
@@ -260,9 +260,9 @@ hikaye ve şarkının gücüyle, yılanı deliğinden çıkarır.
 </p>
 </div>
 </div>
-<div id="outline-container-org6b7b703" class="outline-3">
-<h3 id="org6b7b703">Cleric</h3>
-<div class="outline-text-3" id="text-org6b7b703">
+<div id="outline-container-org4c6f9d5" class="outline-3">
+<h3 id="org4c6f9d5">Cleric</h3>
+<div class="outline-text-3" id="text-org4c6f9d5">
 <p>
 İmparatorluk’un Yeni Tanrı inancı, Arz’ın en yaygın
 dinlerindendir. Rahipler, bu yolda iman ve cesaretle
@@ -271,9 +271,9 @@ inancının doğrularını yaymak için yola düşer.
 </p>
 </div>
 </div>
-<div id="outline-container-org6144651" class="outline-3">
-<h3 id="org6144651">Druid</h3>
-<div class="outline-text-3" id="text-org6144651">
+<div id="outline-container-orgb42bf83" class="outline-3">
+<h3 id="orgb42bf83">Druid</h3>
+<div class="outline-text-3" id="text-orgb42bf83">
 <p>
 Druidler Eski Tanrılar’ın yolundan giderek onların
 büyülerini öğrenen pagan rahipleridir. Öğretileri ahlaki
@@ -282,9 +282,9 @@ uyumlu şekilde yaşamayı hedefler.
 </p>
 </div>
 </div>
-<div id="outline-container-org332b955" class="outline-3">
-<h3 id="org332b955">Fighter</h3>
-<div class="outline-text-3" id="text-org332b955">
+<div id="outline-container-orge3a4151" class="outline-3">
+<h3 id="orge3a4151">Fighter</h3>
+<div class="outline-text-3" id="text-orge3a4151">
 <p>
 Savaşçılar, dövüş ve muharebe tekniklerinde uzmanlaşmış
 maceracılardır. Güç ve dirençleriyle bilinirler. Kayıp Kıta,
@@ -293,9 +293,9 @@ savaşçılara cazip fırsatlar sunar.
 </p>
 </div>
 </div>
-<div id="outline-container-org6810295" class="outline-3">
-<h3 id="org6810295">Paladin</h3>
-<div class="outline-text-3" id="text-org6810295">
+<div id="outline-container-org2f0ad6c" class="outline-3">
+<h3 id="org2f0ad6c">Paladin</h3>
+<div class="outline-text-3" id="text-org2f0ad6c">
 <p>
 Yeni Tanrı Dini'nin bazı şövalyeleri, Azizler'in
 mucizeleriyle kutsanır. Bu mukaddes savaşçılar, diyarı gezip
@@ -304,9 +304,9 @@ cesaretleriyle çevresindekilere ilham verirler.
 </p>
 </div>
 </div>
-<div id="outline-container-org3c562e4" class="outline-3">
-<h3 id="org3c562e4">Ranger</h3>
-<div class="outline-text-3" id="text-org3c562e4">
+<div id="outline-container-org62e99e9" class="outline-3">
+<h3 id="org62e99e9">Ranger</h3>
+<div class="outline-text-3" id="text-org62e99e9">
 <p>
 Kolcular, yaban diyarlarda kötülük ve kaosa geçit vermeyen,
 çetin kaşiflerdir. En zorlu doğa koşullarında bile hayatta
@@ -315,9 +315,9 @@ onların büyülerini öğrenirler.
 </p>
 </div>
 </div>
-<div id="outline-container-org4250cfd" class="outline-3">
-<h3 id="org4250cfd">Rogue</h3>
-<div class="outline-text-3" id="text-org4250cfd">
+<div id="outline-container-orgad2a1fd" class="outline-3">
+<h3 id="orgad2a1fd">Rogue</h3>
+<div class="outline-text-3" id="text-orgad2a1fd">
 <p>
 Hırsızlar ve serseriler; hüner, gizlilik ve aldatmacayla
 yolunu bulur. Kurnazlıkları ve türlü maharetlerleriyle her
@@ -326,9 +326,9 @@ bir hazine avı şansıdır.
 </p>
 </div>
 </div>
-<div id="outline-container-org792f530" class="outline-3">
-<h3 id="org792f530">Sorcerer</h3>
-<div class="outline-text-3" id="text-org792f530">
+<div id="outline-container-org978013b" class="outline-3">
+<h3 id="org978013b">Sorcerer</h3>
+<div class="outline-text-3" id="text-org978013b">
 <p>
 Kimi maceracıların büyü yapmak için büyü kitaplarına veya
 hocalara ihtiyacı yoktur. Efsuncular büyünün gücünü
@@ -337,9 +337,9 @@ hükmederek engelleri aşarlar.
 </p>
 </div>
 </div>
-<div id="outline-container-org21cd479" class="outline-3">
-<h3 id="org21cd479">Wizard</h3>
-<div class="outline-text-3" id="text-org21cd479">
+<div id="outline-container-orgdd16b53" class="outline-3">
+<h3 id="orgdd16b53">Wizard</h3>
+<div class="outline-text-3" id="text-orgdd16b53">
 <p>
 Büyücüler, uzun yıllar süren çalışmalar sonucu büyünün gizli
 ilmine vakıf olmuş maceracılardır. Kayıp Kıta, elemental
@@ -349,9 +349,9 @@ güçleri ve unutulmuş sırlarıyla, bu kurnaz alimleri kendine
 </div>
 </div>
 </div>
-<div id="outline-container-orgde47ad5" class="outline-2">
-<h2 id="orgde47ad5">Motivasyonlar</h2>
-<div class="outline-text-2" id="text-orgde47ad5">
+<div id="outline-container-orga1682e5" class="outline-2">
+<h2 id="orga1682e5">Motivasyonlar</h2>
+<div class="outline-text-2" id="text-orga1682e5">
 <p>
 Motivasyon, karakterinin neden maceralara atıldığını
 gösterir. Bazı örnek motivasyonlar aşağıdadır:
