@@ -1,6 +1,6 @@
 #+TITLE: Org Mode Example Site
 * Overview
-Bazı notlar
+Bazı notlar.
 * Başka Şeyler
 ** Alt Başlıklar
 Vesaire. 
