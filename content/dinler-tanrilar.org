@@ -1,0 +1,92 @@
+#+TITLE: Dinler ve Tanrılar
+
+-----
+
+- [[./index.org][Ana Sayfaya Dön]]
+
+Arz’ın en yaygın iki inancı, Yeni Tanrı Dini ve Eski
+Tanrılar'dır.
+* Yeni Tanrı Dini
+Emperyal dönemde İmparatorluk’ta ortaya çıkan Yeni Tanrı
+Dini, bugün Arz’ın en yaygın inancıdır. Rahipleri, diyarın
+dört bir yanındaki katedraller ve bazilikalarda dini hizmet
+sunar.
+
+Bu inanç, Azizlerin Dini olarak da bilinir. Okuyucularına
+ahlaki ve felsefi öğretiler aktaran Azizlerin Kutsal Kitabı
+ile önce İmparatorluk’a, sonra da dünyaya yayılmıştır. Bu
+ciltler, insan formundaki ilahı varlıklar olan Azizler’in
+hikayelerini anlatır. Azizlerin Kutsal Kitabı beş bölümden
+oluşur. Bunlar:
+
+- *Kral ve Şövalyelerin Kitabı.* İyi Kral ve Şövalyeleri’nin
+  adalet ve doğruluk için çıktıkları yolculuğu anlatır.
+- *Gözcülerin Kitabı.* Batı Krallıkları’nı gezen üç kadının
+  öyküsünü aktarır: Bakire, Ana ve Kocakarı. Bu ciltte,
+  kader, gelecek, ve aile temaları yaygındır.
+- *İkizlerin Kitabı.* Bilgin ve Demirci’nin temel olarak
+  gelişim, sabır ve arayışa yönelik öğretiler içeren
+  hikayesini anlatır.
+- *Gezginin Kitabı.* Kahraman bir Gezgin’in İmparatorluk ve
+  İç Deniz kıyısındaki sürükleyici maceralarını
+  anlatır. Çoğu bölgede en popüler cilt budur.
+- *İsimsiz Kitap.* Yabancı tarafından yazılan bu garip
+  kitap, bazen diğer ciltlerden bağımsız kısa öyküler
+  anlatır, bazense diğer Azizler’in hikayelerine
+  farklı—hatta kimi zaman sorgulayıcı—yaklaşımlar sunar.
+
+Kitaplarda, Azizler bir Yaratıcı’ya işaret etmekte;
+insanlara onun yolundan gitmek, hayatı ve medeniyeti doğru
+biçimde idare etmek için öğretiler sunmaktadır.
+
+Tabii satır aralarında karanlık bazı figürlerden de
+bahsedilir. İyi Kral, takipçilerini Azapgetiren’e karşı
+uyarır. İkizler ve Gezginin Kitapları, Aldatan’ın ölümlüler
+arasında gizlice dolaştığını anlatır. Gözcülerin Kitabı’nda
+ise Olmayan adlı rahatsız edici bir varlığa değinilmektedir.
+* Eski Tanrılar
+Eski Tanrılar’ın hangilerinin tanrı, hangilerinin doğa ruhu
+olduğu tartışmalıdır. Paganların kendileri bile çağlar
+boyunca bu güçler üzerinde bir uzlaşmaya varamamıştır. Eski
+Din, ahlaki öğretilerden ziyade, doğal güçlerle uyum içinde
+yaşamaya, onların tehlikelerinden sakınmaya yöneliktir.
+** Avandra
+Şans, değişim, macera ve seyahati temsil eder. Medeni
+dünyada olmasa da, ıssız yol kenarlarında pek çok sunağı
+vardır. Gezginler, tüccarlar, her türden maceracılar onun
+yolundan gider.
+** Bahamut
+Platin ejderha Bahamut, adalet, himaye ve onur
+tanrısıdır. Eski Tanrı paladinleri, metalik ejderhalar ve
+dragonborn'lar onun asil yolunu takip eder.
+** Ioun
+Bilgelik, yetenek ve kehanetler tanrıçasıdır. Alimler,
+kahinler, büyücüler onun yolunu izler. Kütüphaneler ve
+akademiler, çoğu zaman onun ismine adanır.
+** Kord
+Fırtına ve savaş tanrısıdır. Güç, kuvvet ve yiğitliği temsil
+eder. Yıldırımların efendisi, vahşi ve dizginsiz bir
+ilahtır. Savaşçılar, denizciler, atletler ondan medet umar.
+** Kuzgun Kraliçe
+Ölüm tanrısının adı uzun zaman önce unutulmuştur, bugün o
+yalnızca Kuzgun Kraliçe adıyla bilinir. Kadere
+hükmeder. Aynı zamanda kışı ve ölümlü yaşamın sonunu
+sembolize eder. Pek çok yerde, dünyadan göçen ruhlara eşlik
+etmesi için ona adaklar adanır.
+** Melora
+Yaban diyarlar ve denizlerin tanrıçasıdır. Hem vahşi hayatı,
+hem barışçıl doğayı temsil eder. Kolcular, avcılar,
+denizciler ona tapar.
+** Pelor
+Güneş ve yaz tanrısıdır. Ayrıca zamanın
+efendisidir. Karanlığa, acıya ve kötülüğe karşı durmak
+isteyenler ona sığınır. Tarım ve bereketi temsil ettiğinden,
+insan dünyasındaki en yaygın ilahlardandır.
+** Sehanine
+Ay ve sonbahar tanrıçası Sehanine, aldatmaca, gölgeler ve
+ilüzyonların ilahıdır. Aşkı, rüyaları ve hayalleri temsil
+eder. Gözcüler, hırsızlar ve aşıklar ondan lütuf dilerler.
+
+------
+
+- [[./index.org][Ana Sayfaya Dön]]

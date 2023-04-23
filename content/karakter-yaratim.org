@@ -1,0 +1,187 @@
+#+TITLE: Karakter Yaratımı
+
+-----
+
+- [[./index.org][Ana Sayfaya Dön]]
+
+/Kayıp Kıta Serüvenleri/ için 19 Nisan Çarşamba saat 18'de
+karakter yaratımı yapacağız.
+
+Öncesinde, aşağıdaki seçenekleri değerlendirip iki farklı
+karakter konsepti seçmelisin. Bunun için kulağına
+eğlenceli gelen, oynamak istediğin bir *ırk*, *meslek* ve
+*motivasyon* kombinasyonu belirle.
+
+Örneğin, "İyilik yapmaya çalışan İnsan bir Savaşçı." Veya
+"Dwarf, Cleric, Motivasyon: İnancını Yaymak," gibi. Bunu iki
+farklı karakter için tekrarla. Ve iki tercihini Çarşamba
+gününden önce bana özelden ulaştır.
+
+Herkes tercihlerini gönderdiğinde bunları okuyup
+değerlendireceğim. Ve karakterleri birlikte yaratacağız.
+
+(*Önemli Not.* Tercihlerini bu şekilde önden göndermeyen
+oyuncular, karakter yaratımında attıkları skor zarlarını
+kabiliyetlerine diledikleri gibi yerleştirme hakkından
+mahrum kalacaktır.)
+* Irklar
+Oyunda seçebileceğin ırklar aşağıdadır:
+** İnsan
+İnsanlar, Arz'ın en baskın ırkıdır. Çeşitlilikleri,
+adaptasyonları ve hırslarıyla bilinirler. Oyundaki insan
+karakterler kolonici veya yerli olabilir.
+
+Örnek isimler:
+
+- Batı Krallıkları:
+  * Ander, Desmon, Korven, Stedd, Wilas
+  * Doris, Elmira, Hedra, Margot, Trisa
+- İmparatorluk:
+  * Bato, Cassius, Flavius, Hektor, Marius
+  * Cintia, Justina, Iris, Optima, Regina
+- Buzyeli: 
+  * Gunthar, Ragmar, Sigmund, Torvald, Ulf
+  * Freya, Gunhild, Hilda, Ingrid, Svena
+- Özgür Şehirler:
+  * Anton, Lorenza, Markon, Renzo, Salazar
+  * Bella, Cecila, Dona, Luisa, Marena
+- Senua: 
+  * Atohi, Hemak, Nahotl, Senua, Tenoch
+  * Aki, Kenoi, Neke, Samose, Waneha
+** Cüce
+Cüceler, dağlardaki görkemli maden-kentlerinde yaşayan,
+tıknaz ve babayiğit bir halktır. Sıkı çalışmaları,
+materyalist yapıları ve dirençleriyle bilinirler.
+Huysuzlukları ve inatları meşhurdur. Zor dost edinirler,
+düşmanlarını ise asla unutmazlar.
+
+Örnek isimler:
+
+- Angmar, Barkus, Magnar, Rurik, Tordek, Ungrim
+- Agna, Bianka, Katlin, Mael, Orla, Thurisa
+** Elf
+Mağrur ve zarif elfler, kadim ve uzun ömürlü bir
+halktır. Dışa kapalı bir yaşam sürerler. Dövüş, müzik,
+sanat, sihir gibi meziyet isteyen şeylere büyük saygı
+duyarlar. Gezgin ruhlu elf maceracılar, bazen gizli
+ormanlarından ayrılıp insan diyarlarına göç eder.
+
+Örnek isimler:
+
+- Benweth, Elros, Gerthas, Quarion, Sindel
+- Amarys, Caelynn, Elrosine, Mirena, Quelenna
+** Buçukluk
+Buçukluklar, küçük, dostane, ve becerikli bir
+halktır. İnsanlarla iç içe yaşarlar. Sinsilik ve
+meraktaki namları, çok da temelsiz değildir. Yuva
+sıcaklığına düşkün olsalar da, çoğu maceraperest bir ruh
+taşır, ve hayatının bir noktasında yollara düşer.
+
+Örnek isimler:
+
+- Arn, Finn, Milo, Peryn, Reed, Rhent
+- Bree, Dori, Fara, Merla, Oona, Tess
+** Genasi
+Damarlarında elemental varlıkların kanını taşıyan genasiler,
+Senua'da yaygındır. Hava, su, toprak ve ateş olmak üzere
+dört türleri vardır.
+
+Fiziken insanlara benzeseler de çarpıcı farklar
+taşırlar. Bunlar element niteliklerine göre değişir: Alev
+alev yanan gözler, su altındaymışçasına dalganan saçlar,
+daima hafif bir esinti taşıma, veya kayaları andıran bir
+cilt gibi.
+
+Karakterleri de taşıdıkları elemente göre şekillenir: Ateş
+genasileri genelde enerjik ve öfkelidir, su genasileri
+duygusal ve empatik olur, hava genasileri uçarı ve
+savruktur, toprak genasileri oturaklı ve ağır kanlıdır,
+gibi.
+
+Genasiler genelde Senua adları kullanır. Kimileri takma
+isimler tercih edebilir. Örneğin:
+
+- Alaz, Duman, Köz, Mısra, Opal, Poyraz, Zefir
+
+(Genasi statları /Forgotten Realms Campaign Setting/
+s.19'dadır.)
+#+LATEX: \clearpage
+* Meslekler
+Oyunda seçebileceğin meslekler aşağıdadır:
+** Barbarian
+Arz'ın vahşi toprakları, pek çok barbar kabilesine ev
+sahipliği yapar. Bunların gözü kara dövüşçüleri, bazen
+halkını geride bırakıp maceraya atılır. Barbarlar
+hiddetlerini bir silah gibi kullanır. 
+** Bard
+Bazı ozanlar, yolculukları esnasında kadim fey büyülerinin
+sırlarını keşfeder. Bu karizmatik maceracılar; güzel söz,
+hikaye ve şarkının gücüyle, yılanı deliğinden çıkarır.
+** Cleric
+İmparatorluk’un Yeni Tanrı inancı, Arz’ın en yaygın
+dinlerindendir. Rahipler, bu yolda iman ve cesaretle
+savaşan, ilahi büyü gücüyle donanmış maceracılardır. Çoğu
+inancının doğrularını yaymak için yola düşer.
+** Druid
+Druidler Eski Tanrılar’ın yolundan giderek onların
+büyülerini öğrenen pagan rahipleridir. Öğretileri ahlaki
+tutumlar içermez; onun yerine tabiat güçlerinin düzeniyle
+uyumlu şekilde yaşamayı hedefler.
+** Fighter
+Savaşçılar, dövüş ve muharebe tekniklerinde uzmanlaşmış
+maceracılardır. Güç ve dirençleriyle bilinirler. Kayıp Kıta,
+canavarlarla ön saflarda cenk etmeye talip gözüpek
+savaşçılara cazip fırsatlar sunar.
+** Paladin
+Yeni Tanrı Dini'nin bazı şövalyeleri, Azizler'in
+mucizeleriyle kutsanır. Bu mukaddes savaşçılar, diyarı gezip
+kötülükle savaşmaya ant içerler. Soyluluk, dürüstlük ve
+cesaretleriyle çevresindekilere ilham verirler.
+** Ranger
+Kolcular, yaban diyarlarda kötülük ve kaosa geçit vermeyen,
+çetin kaşiflerdir. En zorlu doğa koşullarında bile hayatta
+kalabilirler. Eski Tanrılar’ın izinden giderek, zamanla
+onların büyülerini öğrenirler.
+** Rogue
+Hırsızlar ve serseriler; hüner, gizlilik ve aldatmacayla
+yolunu bulur. Kurnazlıkları ve türlü maharetlerleriyle her
+zorluğa karşı bir çare bulabilirler. Senua, onlar için eşsiz
+bir hazine avı şansıdır.
+** Sorcerer
+Kimi maceracıların büyü yapmak için büyü kitaplarına veya
+hocalara ihtiyacı yoktur. Efsuncular büyünün gücünü
+kanlarında taşır. Gizli sanatlara içten gelen bir yetenekle
+hükmederek engelleri aşarlar.
+** Wizard
+Büyücüler, uzun yıllar süren çalışmalar sonucu büyünün gizli
+ilmine vakıf olmuş maceracılardır. Kayıp Kıta, elemental
+güçleri ve unutulmuş sırlarıyla, bu kurnaz alimleri kendine
+çeker.
+* Motivasyonlar
+Motivasyon, karakterinin neden maceralara atıldığını
+gösterir. Bazı örnek motivasyonlar aşağıdadır:
+
+1. İyilik Yapmak
+2. Başkalarına Yardım Etmek
+3. Becerini Kanıtlamak
+4. Şan-şöhret Kazanmak
+5. Zengin Olmak
+6. Yeteneklerinde Ustalaşmak
+7. Zaferler Kazanmak
+8. Adaleti Sağlamak
+9. Vazifeni Yapmak
+10. Hakikati Keşfetmek
+11. Güç Kazanmak
+12. Bilgi Biriktirmek
+13. Kaderini Gerçekleştirmek
+14. Can Sıkıntını Gidermek
+15. Statü Kazanmak
+16. İnancını Yaymak
+17. Kaos Yaratmak
+18. Öfkeni Yatıştırmak
+19. Seyahat Tutkunu Tatmin Etmek
+20. İntikam Alma
+
+------
+
+- [[./index.org][Ana Sayfaya Dön]]

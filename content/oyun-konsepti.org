@@ -1,0 +1,76 @@
+#+TITLE: Oyun Konsepti
+
+-----
+
+- [[./index.org][Ana Sayfaya Dön]]
+
+/Kayıp Kıta Serüvenleri/ 26 Nisan'da başlayacak, /Dungeons &
+Dragons v.3.5/ kural sistemiyle oynanacak bir FRP
+oyunudur. Haftalık seanslar şeklinde, altı—on ay arası
+sürecektir. Oyunun genel konsepti aşağıdadır.
+* Kayıp Senua Kıtası
+Kılıç ve büyünün hüküm sürdüğü kadim Arz dünyasının
+güneybatısında Kayıp Senua Kıtası uzanır. Burası balta
+girmemiş ormanlar, fırtınalı sahiller ve öfkeli volkanlarla
+doludur. Kabileler, ilkel canavarlar ve köklü elemental
+güçlere ev sahipliği yapar.
+
+Karanlık Çağ'ın sonunda, bölge kabilelerinin lideri Kraliçe
+II. Matari, kolonicilere kıtanın kapılarını açma kararı
+verir. Yeni Lejyon'la bir anlaşma imzalar. Buna göre
+lejyonerler, kazançlarını Kraliçe'yle paylaşmak şartıyla,
+kıtada faaliyet gösterebilecektir. Yeni Lejyon, Arz'ın dört
+bir yanından maceracıları, tüccarları, bilginleri ve
+zanaatkârları Senua'ya davet eder.
+
+Grup, bu çağrıya kulak verip, sıradan hayatlarını geride
+bırakan yabancılar olarak yola başlar. Hepsi kendi
+gayelerinin peşindedir. Ancak zamanla birbirlerine
+güvenmeyi, ve beraber çalışmayı öğrenirler.
+* Mücadele ve Fırsatlar
+İlk görevlerinde, müstakbel maceracıları şans bir araya
+getirir. Sonrasında bölgedeki yerleşim yerlerinde başka
+macera fırsatları keşfederler. Bunlardan birini kovalamaya
+karar verdiklerinde, genellikle bir ön hazırlık yaparak,
+gerekli erzaklar ve önemli bilgiler edinirler. Ardından
+yerleşim yerinden ayrılıp, yaban doğanın çetin şartlarında
+yolculuk ederek macera lokasyonuna ulaşırlar.
+
+Buradaki engelleri ve zorlukları aşarak maceranın ana
+hedefini gerçekleştirmeye çalışırlar. Bu, vahşi bir canavarı
+avlama, doğal bir bölgeyi keşfetme veya unutulmuş bir
+harabeyi araştırma gibi şeyler olabilir.
+
+Hedeflerinde başarılı olsalar da, olmasalar da, yerleşim
+yerine dönerler. Burada macerada elde ettikleri kazanımları
+değerlendirir, çalışarak seviye atlarlar. Bir yandan da
+dinlenip güç toplarlar. Yerleşim yerleri bunlar dışında da
+sosyalleşme, bağlantılar kurma, bilgi edinme vb. cazip
+imkanlar da sunar. Eninde sonunda yeni bir macera kendini
+gösterir, ve döngü tekrar başlar.
+
+Grup kısa sürede koloni bölgesinin mucizeler, tehlikeler ve
+sırlarla dolu olduğunu görür. Maceraları esnasında bunları
+yavaş yavaş keşfeder, ve bunlarla nasıl başa çıkacağına
+karar verir. Eylemleri onları, Yeni Lejyon, kabileler, veya
+bölgedeki diğer aktörlerle ortak ya da rakip haline
+getirebilir. Nihayetinde bölgenin kaderini belirleyecek
+seçimlerin bir parçası olabilirler. Tabii uyanmakta olan
+ilkel bir gücün hiddeti altında ezilip gitmezlerse.
+* Serüvenin İlk Adımı
+Hikaye başlarken grup Karuga Limanı'nda toplanır. Lejyon
+onları Kadim Ruhlar Ormanı kıyısındaki bir oduncu kampını
+araştırmak için görevlendirir. Hedef bir süredir
+kendilerinden haber alınamayan işçilerin kaderini ortaya
+çıkarmaktır. Bölgenin amansız tehlikeleriyle yüzleşmek üzere
+vahşi doğaya ilk adımlarını atarlar. Çok geçmeden
+karşılarında meşum bir kehanet bulacaklardır:
+
+/Kaynayan denizler ve fokurdayan volkanların içinden/
+/Uyanacak ilkel bir güç en korkunç derinlerden./
+/Elementler bir kaos ve yıkım seliyle köpürecek/
+/Denge ancak gök ve yer birleşince gelecek./
+
+------
+
+- [[./index.org][Ana Sayfaya Dön]]

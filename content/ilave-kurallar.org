@@ -1,0 +1,178 @@
+#+TITLE: İLAVE KURALLAR
+
+-----
+
+- [[./index.org][Ana Sayfaya Dön]]
+
+Oyunda kullanacağımız bazı ilave kurallar aşağıdadır.
+* Karakter Takdimi
+FRP, söze dayalı bir oyun olduğu için, karakterlerin fiziksel
+özellikleri kolayca akıldan çıkabilir. Buna engel olmak için
+karakterini belli periyotlarda yeniden takdim etmeni
+isteyebilirim. Bunu ezberden yapmak her zaman kolay olmadığından,
+fiziksel özelliklerini kısaca not alman gerekebilir.
+
+Bunun için karakterinin dışarıdan bakınca algılanan özelliklerine
+odaklan, ve aşağıdaki beş maddeye, bir iki cümleyle kısaca değin.
+
+1. *Genel Fizik.* Irk, cinsiyet, etnisite, vücut yapın, ve göründüğü
+   kadarıyla yaşın.
+2. *Silah, Zırh ve Kıyafetler.* Görünen silahların, ve onları taşıdığın
+   yerler. Giydiğin zırh veya kıyafetlerin genel özellikleri.
+3. *Semboller ve Süsler.* Üzerinde bulunan kutsal semboller, takılar,
+   kalkanındaki armalar, vs. Ve bunların oyun dünyasındaki anlamları.
+4. *Özgün Nitelik.* Karakterini diğerlerinden ayıran önemli bir
+   detay. Bu fiziksel bir özelliğin, taşıdığın bir şey, kendine has
+   duruşun, tutumun vb. bir niteliği kapsayabilir.
+5. *Yeni Detay.* Karakterinin yakın zamanda, oyun esnasında ortaya çıkan
+   bir detayı. Bu herhangi bir şey olabilir: Kullandığın bir hünerin,
+   geçmişine dair ortaya çıkan yeni bir bilgi, veya birayı şaraba
+   tercih etmen, gibi.
+
+Anlatımın sırasında, niteliğe dayalı tariflerden çok, hayal gücünde
+çağrışımlar yapabilen anlam yüklü kelimeler tercih et. Örneğin
+kılığını anlatırken, "çizgili, saten bir pantolon; yeşil, dökümlü bir
+bluz; ve bağcıklı mor bir korse" yerine, "gezgin bir göstericinin
+cafcaflı kostümü" ifadesini kullanmak, tarifini daha etkili ve kolay
+kavranır hale getirir.
+
+Örnek bir karakter takdimi aşağıdadır:
+
+1. *Genel Fizik.* Karpin, narin yapılı, genç bir erkek. Tipik bir
+   Radovyalı gibi esmer, köşeli yüz hatlarına sahip ve bıyıklı.
+2. *Silah, Zırh ve Kıyafetler.* Sırtında beceriksizce taşıdığı
+   arbaletine ilaveten yanından sarkan bir sopası var. Sonbahar
+   renklerinde soylu kıyafetleri ve uzun bir pelerin giyiyor.
+3. *Semboller ve Süsler.* Yüzüğünde çok da ihtişamlı görünmeyen bir
+   soylu mührü taşıyor.
+4. *Özgün Nitelik.* Sıkça avcunda gezdirdiği bir altın sikkeye sahip.
+5. *Yeni Detay.* Kirli çıkı bir yönü var. Son macerada çantasından soylu
+   babasından habersizce aldığı şifa iksirleri çıktı.
+* Seans Katılımı ve XP
+Eğer bir sebepten ötürü oyun seansına katılamazsan, karakterinin
+idaresini bana devretmiş sayılırsın. Bu durumda, öncelikle o seans
+için, karakterini gruptan ayırmaya çalışırım. Elbette bunun için
+grubun elverişli bir yerde olması gerekir. Örneğin bir yerleşim
+yerindeyseniz, karakterinin kendi başına bir şeyler yapıyor olması
+akla yatkındır.
+
+Ancak bu hep mümkün olmaz. Zindanın ortasındayken, karakterinin bir
+seanslığına ortadan kaybolup gelmesi, hikaye devamlılığına zarar
+verir. Dolayısıyla bu gibi durumlarda, karakterini tıpkı bir NPC gibi
+ben kontrol ederim. Mekanik özelliklerinin idaresini ise bir başka
+oyuncuya devredebilirim. Bu hepimize ekstra bir yük teşkil ettiğinden,
+karakterini yukarıda anlattığım şekilde ayırmak önceliğimdir.
+
+Karakterin, mevcut olmadığı Encounter’lardan XP almaz.
+* Seviye Atlama
+Karakterin, maceralarda kazandığı tecrübeleri, yerleşim
+yerlerinde yaptığı çalışmalarla birleştirerek seviye atlar.
+** Çalışma Türleri ve Fasiliteler
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
+Bunun için karakter yaratımı esnasında, ana ve yan olacak
+şekilde iki çalışma türü seçersin.
+
+Genellikle karakterin ilk mesleği ana çalışma türünü, ikinci
+mesleği ise yan türünü belirler. Karakterlerin çalışma
+türlerinde nihai karar bana aittir.
+
+Çalışma türleri şunlardır:
+
+- *Akademik Çalışma (20 gp):* Araştırma, inceleme, deney,
+  eğitim, danışma ve uzmanlığı kapsar. Genellikle bilginler
+  ve alimler eşliğinde, kütüphanelerde, laboratuvarlarda
+  veya arşivlerde yapılır.
+- *Pratik Çalışma (10 gp):* Uzmanlığa dayalı pek çok dalı
+  içerir. Yabanda hayatta kalma, zanaatkârlık, hırsızlık
+  veya dolandırıcılık gibi bir hünerin gelişimine dayalı
+  aktivitelerdir. Genellikle yerleşim yerlerinde veya yakın
+  civarlarında, benzer meslek dallarından uzmanlarla bir
+  arada çalışarak yapılır.
+- *Ritüel Çalışması (20 gp):* Törenler, ayinler, meditasyon,
+  tasavvur, gizli ilimler ve diğer ruhani pratikleri
+  içerir. Bir şeylerle bağ kurmaya dayanır. Rahipler,
+  falcılar, büyücüler, şövalyeler, keşişler bu yöntemleri
+  kullanır.
+- *Savaş Çalışması (10 gp):* Egzersiz, direnç, karşılıklı
+  dövüş, hedef talimi, ve benzeri fiziksel idmanları
+  kapsar. Kas, refleks ve kondisyona dayalı meslekler için
+  gereklidir. Genellikle askeri talim alanları, dövüş
+  kulüpleri, manastırlar, idman salonları vb. yerlerde
+  yapılır.
+- *Sosyal Çalışma (20 gp):* Mesleğine uygun çevrelerle
+  temasta bulunmaya dayalı bir çalışma
+  türüdür. Zanaatkârlar, dolandırıcılar, sanatçılar, kanaat
+  önderleri vb. profesyoneller, benzer toplulukların
+  içerisinde bulunarak meziyetlerini geliştirir.
+
+Çalışma türleri, doğaları gereği farklı dinamikler ortaya
+çıkarır. Örneğin, hırsızlık yeteneklerini geliştirmek riskli
+olabileceği gibi, kazançlı da olabilir. Ritüellerin ruhani
+bağları kuvvetlendirmesi, beklenenden uzun zaman
+alabilir. Her fasilitenin, bunun dışında da kendine has
+nitelikleri olabilir. Bu gibi durumlar, oyun esnasında
+ortaya çıkacaktır.
+** Çalışma Periyotları 
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
+Çalışma fasiliteleri, ekstrem durumlar dışında çoğu yerleşim
+yerinde mevcuttur. Karakterin yeterli XP’ye ulaştığında,
+seviye atlamak için buralarda çalışma yapması gerekir. Bu
+çalışma zamanı, 4 saatlik periyotlardan oluşur.
+
+Karakterin ana çalışma türünde eğitim yapıyorsa, harcaman
+gereken periyot sayısı, ulaştığın seviyenin iki katıdır.
+
+Yan türünde çalışma yapıyorsan, harcaman gereken periyot
+sayısı, ulaştığın seviyenin iki buçuk (yukarı yuvarla)
+katıdır.
+
+Örneğin 3. seviyeye atladığında, ana türünde, 4 saatlik 6
+periyotta çalışma yaparsın. Yan türünde ise 8 periyotta
+çalışma yaparsın.
+
+Yan türde çalışma daha uzun olsa da, bazı koşullarda daha
+elverişli olabilir. Fasiliteye erişememe, farklı faydalar
+gözetme, gibi.
+
+Eğitim süresi boyunca ortaya çıkan masrafları ödemen
+gerekir. Bunlar, türlerin yanında belirtilmiştir. Bu sürenin
+sonunda seviye atlamayı tamamlarsın.
+** Rehberlik
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
+Seviye atlarken tek başına çalışabileceğin gibi, bir rehbere
+de danışabilirsin. Rehberler, alanlarında uzman NPC’lerdir.
+
+Kendi başına çalışırken mevcut sınıfında seviye atlayabilir,
+mevcut skill'lerine yeni kademe ekleyebilir, mesleğinin
+getirdiği gelişim özelliklerini alabilirsin. Ayrıca mevcut
+özelliklerinin devamı olan, veya ön koşullarını tamamladığın
+feat'leri edinebilirsin.
+
+Yeni bir meslekte ilk seviyeni almak, yeni bir skill'e giriş
+yapmak, karakter özelliklerinin devamı niteliğinde olmayan
+bir feat'i almak için rehberlik gerekir.
+
+Karakter gelişiminde rehberlik gerekip gerekmediğini
+belirlerken son karar bana aittir.
+
+Rehberlik yapacak NPC’lere ulaşman her zaman kolay
+olmayabilir. Çoğu zaman eğitim karşılığında karakterinin bu
+kişilere bir şeyler sunması gerekir. Dolayısıyla oyun
+sırasında bu gibi karakterleri teşhis edip, onlardan
+istifade etme yollarını gözetmek, lehine olur.
+
+Rehberler, karakterine ana kitapta olmayan feat'ler,
+meslekler, büyüler veya özellikler sunabilir. İlaveten seni
+seviye atlarken attığın düşük HP zarlarına karşı korur. Son
+olarak da, rehber eşliğinde çalışarak seviye atlarsan, o
+seviye boyunca %10 XP bonusu kazanırsın.
+
+------
+
+- [[./index.org][Ana Sayfaya Dön]]
