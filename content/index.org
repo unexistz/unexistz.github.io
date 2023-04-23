@@ -1,10 +1,14 @@
 #+TITLE: Kayıp Kıta Serüvenleri
-* Kayıp Kıta Serüvenleri
+#+LANGUAGE: tr
+* Oyun Konsepti
 /Kayıp Kıta Serüvenleri/ 26 Nisan'da başlayacak, /Dungeons &
 Dragons v.3.5/ kural sistemiyle oynanacak bir FRP
 oyunudur. Haftalık seanslar şeklinde, altı—on ay arası
 sürecektir. Oyunun genel konsepti aşağıdadır.
 ** Kayıp Senua Kıtası
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
 Kılıç ve büyünün hüküm sürdüğü kadim Arz dünyasının
 güneybatısında Kayıp Senua Kıtası uzanır. Burası balta
 girmemiş ormanlar, fırtınalı sahiller ve öfkeli volkanlarla
@@ -24,6 +28,9 @@ bırakan yabancılar olarak yola başlar. Hepsi kendi
 gayelerinin peşindedir. Ancak zamanla birbirlerine
 güvenmeyi, ve beraber çalışmayı öğrenirler.
 ** Mücadele ve Fırsatlar
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
 İlk görevlerinde, müstakbel maceracıları şans bir araya
 getirir. Sonrasında bölgedeki yerleşim yerlerinde başka
 macera fırsatları keşfederler. Bunlardan birini kovalamaya
@@ -54,6 +61,9 @@ getirebilir. Nihayetinde bölgenin kaderini belirleyecek
 seçimlerin bir parçası olabilirler. Tabii uyanmakta olan
 ilkel bir gücün hiddeti altında ezilip gitmezlerse.
 ** Serüvenin İlk Adımı
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
 Hikaye başlarken grup Karuga Limanı'nda toplanır. Lejyon
 onları Kadim Ruhlar Ormanı kıyısındaki bir oduncu kampını
 araştırmak için görevlendirir. Hedef bir süredir
@@ -88,6 +98,9 @@ oyuncular, karakter yaratımında attıkları skor zarlarını
 kabiliyetlerine diledikleri gibi yerleştirme hakkından
 mahrum kalacaktır.)
 ** Irklar
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
 Oyunda seçebileceğin ırklar aşağıdadır:
 *** İnsan
 İnsanlar, Arz'ın en baskın ırkıdır. Çeşitlilikleri,
@@ -170,6 +183,9 @@ isimler tercih edebilir. Örneğin:
 s.19'dadır.)
 #+LATEX: \clearpage
 ** Meslekler
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
 Oyunda seçebileceğin meslekler aşağıdadır:
 *** Barbarian
 Arz'ın vahşi toprakları, pek çok barbar kabilesine ev
@@ -221,6 +237,9 @@ ilmine vakıf olmuş maceracılardır. Kayıp Kıta, elemental
 güçleri ve unutulmuş sırlarıyla, bu kurnaz alimleri kendine
 çeker.
 ** Motivasyonlar
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
 Motivasyon, karakterinin neden maceralara atıldığını
 gösterir. Bazı örnek motivasyonlar aşağıdadır:
 
