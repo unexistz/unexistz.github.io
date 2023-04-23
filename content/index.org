@@ -7,6 +7,7 @@ olacak bazı bilgi ve kurallar aşağıdadır:
 - [[./dinler-tanrilar.org][Dinler ve Tanrılar]]
 - [[./oyun-konsepti.org][Oyun Konsepti]]
 - [[./karakter-yaratim.org][Karakter Yaratımı]]
+- [[https://drive.google.com/drive/folders/1Q6JUfQv88ocwr7qXBnF2fqvJFLE7XaY_?usp=share_link][Oyun Klasörü]]
 
 \\
 ----- 
