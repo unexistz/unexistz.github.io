@@ -1,13 +1,19 @@
 #+TITLE: Kayıp Kıta Serüvenleri
 
-/Kayıp Kıta Serüvenleri/'ne hoş geldin! Oyunda ihtiyacın
-olacak bazı bilgi ve kurallar aşağıdadır:
+Selam maceracı! /Kayıp Kıta Serüvenleri/ sayfasına hoş
+geldin. Oyunda ihtiyacın olacak bazı bilgi ve kuralları
+aşağıda bulacaksın:
 
-- [[./ilave-kurallar.org][İlave Kurallar]]
-- [[./dinler-tanrilar.org][Dinler ve Tanrılar]]
-- [[./oyun-konsepti.org][Oyun Konsepti]]
-- [[./karakter-yaratim.org][Karakter Yaratımı]]
-- [[https://drive.google.com/drive/folders/1Q6JUfQv88ocwr7qXBnF2fqvJFLE7XaY_?usp=share_link][Oyun Klasörü]]
+- [[./ilave-kurallar.org][İlave Kurallar]]: Oyunda kullanacağımız ilave kurallar ve
+  değişiklikler.
+- [[./dinler-tanrilar.org][Dinler ve Tanrılar]]: Arz'ın dinleri ve tanrıları hakkında
+  bilgiler. 
+- [[./oyun-konsepti.org][Oyun Konsepti]]: Campaign kurgusu ve Kayıp Kıta Senua'ya ilk
+  bakış.
+- [[./karakter-yaratim.org][Karakter Yaratımı]]: Karakter yaratımında seçilebilen ırk,
+  meslek ve motivasyonlar.
+- [[https://drive.google.com/drive/folders/1Q6JUfQv88ocwr7qXBnF2fqvJFLE7XaY_?usp=share_link][Oyun Klasörü]]: Oyun için gereken kural kitabı
+  vb. dökümanlar. 
 
 \\
 ----- 
