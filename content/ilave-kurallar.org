@@ -172,6 +172,21 @@ meslekler, büyüler veya özellikler sunabilir. İlaveten seni
 seviye atlarken attığın düşük HP zarlarına karşı korur. Son
 olarak da, rehber eşliğinde çalışarak seviye atlarsan, o
 seviye boyunca %10 XP bonusu kazanırsın.
+* Yaşam Tarzı Giderleri
+Yerleşim yerinde geçirdiğin her gün; konaklama, beslenme,
+dinlenme, ekipman bakımı, eğlence, sosyalleşme gibi
+ihtiyaçlarını karşılarsın. Bunlar masada oynanmasa dahi,
+arka planda gerçekleşmiş sayılır.
+
+Bu gibi giderleri karşılamak için gün sonunda DM'in yerleşim
+yeri koşullarına göre belirlediği bir miktar parayı ödemen
+gerekir. Bunu karşılayamazsan hastalık, yaralanma, ekipman
+hasarı gibi komplikasyonlar gerçekleşebilir.
+
+Öte yandan kalburüstü bir yaşam tarzı benimser, ve bunun
+ilave giderlerini karşılarsan; sosyal interaksiyonlarda
+bonuslar, hediyeler, özel bağlantılar gibi cazip fırsatlar
+elde edebilirsin.
 
 ------
 
